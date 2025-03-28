@@ -21,6 +21,9 @@
 ; === END OF INSTRUCTIONS ===
 ; ===========================
 
+; For using in Vim
+CapsLock::Esc
+
 CapsLock & 1::switchDesktopByNumber(1)
 CapsLock & 2::switchDesktopByNumber(2)
 CapsLock & 3::switchDesktopByNumber(3)
